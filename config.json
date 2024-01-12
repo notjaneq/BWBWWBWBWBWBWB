@@ -1,0 +1,19 @@
+{
+    "prefix": ".",
+    "genChannel": "1194323997765161002",
+    "pgenChannel": "0000000000000000000",  
+    "servername" : "Janeq's Gen",
+    "website": "https://example.com",
+    "genCooldown": "30000",
+    "genCooldownsec": "30",
+    "color": {
+        "green": "0x57F287",
+        "yellow": "0xFEE75C",
+        "red": "0xED4245",
+        "default": "0x5865F2"
+    },
+    "command": {
+        "notfound_message": true,
+        "error_message": true
+    }
+}
